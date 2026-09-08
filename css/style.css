@@ -417,7 +417,7 @@ a:hover {
   display: inline-block;
   margin: 0 0 0.75rem;
   border-radius: 999px;
-  background: #d1d4f0;
+  background: (--color-accent-soft);
   color: black;
   padding: 0.25rem 0.7rem;
   font-size: 0.72rem;
