@@ -417,11 +417,11 @@ a:hover {
   display: inline-block;
   margin: 0 0 0.75rem;
   border-radius: 999px;
-  background: #c6dbef;
+  background: #d1d4f0;
   color: black;
   padding: 0.25rem 0.7rem;
   font-size: 0.72rem;
-  font-weight: 700;
+  font-weight: 650;
   letter-spacing: 0.05em;
   text-transform: uppercase;
 }
