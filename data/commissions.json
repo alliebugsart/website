@@ -12,7 +12,7 @@
       ],
       "thumbnail": "images/commission/matrix/main.jpg",
       "category": "commission",
-      "timetoship": "4 days"
+      "timetoship": "2-3 weeks"
     },
     {
       "id": "wedding-save-the-date",
@@ -25,7 +25,7 @@
       ],
       "thumbnail": "images/commission/wedding-save-the-date/main.jpg",
       "category": "commission",
-      "timetoship": "4 days"
+      "timetoship": "4 weeks"
     },
     {
       "id": "illustrated-portrait",
@@ -38,7 +38,7 @@
       ],
       "thumbnail": "images/commission/illustrated-portrait/main.jpg",
       "category": "commission",
-      "timetoship": "4 days"
+      "timetoship": "7-10 days"
     },
     {
       "id": "paper-portrait",
@@ -52,7 +52,7 @@
       "thumbnail": "images/commission/paper-portrait/main.jpg",
       "category": "commission",
       "subcategory": "portrait",
-      "timetoship": "4 days"
+      "timetoship": "7-10 days"
     },
     {
       "id": "party-flyer",
@@ -65,12 +65,12 @@
       ],
       "thumbnail": "images/commission/party-flyer/main.jpg",
       "category": "commission",
-      "timetoship": "4 days"
+      "timetoship": "2 weeks"
     },
     {
       "id": "commission-portrait",
       "title": "Portrait",
-      "description": "",
+      "description": "Crafted especially for you! I'm excited to capture you or a loved one in a beautiful digital style.",
       "price": 15,
       "priceDisplay": "$15",
       "images": [
@@ -78,12 +78,12 @@
       ],
       "thumbnail": "images/commission/portrait/main.jpg",
       "category": "commission",
-      "timetoship": "4 days"
+      "timetoship": "7-10 days"
     },
     {
       "id": "commission-menus",
       "title": "Dinner Menus",
-      "description": "in the past 3 years, i have made over 30 unique dinner party menus. A menu ties your meal/event together just a bit more...it says ~i planned this meal out in advanced, i committed it to paper. you are in for a treat~ I will provide up to 6 copies of your menu!",
+      "description": "In the past 3 years, I have made over 30 unique dinner party menus. A menu ties your meal/event together just a bit more...it says ~i planned this meal out in advanced, i committed it to paper. you are in for a treat~ I will provide up to 6 copies of your menu!",
       "price": 15,
       "priceDisplay": "$15",
       "images": [
@@ -96,7 +96,7 @@
       ],
       "thumbnail": "images/commission/menus/main.jpg",
       "category": "commission",
-      "timetoship": "4 days"
+      "timetoship": "3-5 days"
     },
     {
       "id": "mailbox",
@@ -110,7 +110,7 @@
       ],
       "thumbnail": "images/commission/mailbox/main.jpg",
       "category": "commission",
-      "timetoship": "4 days"
+      "timetoship": "5 days"
     },
     {
       "id": "crochet-puzzle",
@@ -124,7 +124,7 @@
       ],
       "thumbnail": "images/commission/crochet-puzzle/main.jpg",
       "category": "commission",
-      "timetoship": "4 days"
+      "timetoship": "6 weeks"
     },
     {
       "id": "love-letter-envelope",
@@ -139,7 +139,7 @@
       ],
       "thumbnail": "images/paper/love-letter-envelope/main.jpg",
       "category": "paper",
-      "timetoship": "4 days"
+      "timetoship": "3 days"
     }
   ]
 }
