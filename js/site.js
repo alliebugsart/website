@@ -153,6 +153,7 @@ async function loadSiteConfig() {
 
 function renderContactLinks(config, container) {
   container.innerHTML = `
+    <a href="aboutme.html">About Me</a>
     <a href="tel:${config.phoneLink}">${config.phone}</a>
     <a href="${config.venmoLink}" target="_blank" rel="noopener noreferrer">Venmo ${config.venmo}</a>
   `;
