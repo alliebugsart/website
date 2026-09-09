@@ -14,6 +14,71 @@
       "thumbnail": "images/paper/love-letter-envelope/main.jpg",
       "category": "paper",
       "timetoship": "3 days"
+    },
+    {
+      "id": "paper1",
+      "title": "Handmade Paper",
+      "description": "My husband and I made this paper together! We used a combination of recycled paper to create a unique texture and color. Each sheet is one-of-a-kind, and perfect for writing letters or creating art.",
+      "price": 15,
+      "priceDisplay": "$15",
+      "images": [
+        "images/paper/paper-1/main.jpeg"
+      ],
+      "thumbnail": "images/paper/paper-1/main.jpeg",
+      "category": "paper",
+      "timetoship": "3 days"
+    },
+    {
+      "id": "paper2",
+      "title": "Handmade Paper",
+      "description": "My husband and I made this paper together! We used a combination of recycled paper to create a unique texture and color. Each sheet is one-of-a-kind, and perfect for writing letters or creating art.",
+      "price": 15,
+      "priceDisplay": "$15",
+      "images": [
+        "images/paper/paper-2/main.jpeg"
+      ],
+      "thumbnail": "images/paper/paper-2/main.jpeg",
+      "category": "paper",
+      "timetoship": "3 days"
+    },
+    {
+      "id": "paper3",
+      "title": "Handmade Paper",
+      "description": "My husband and I made this paper together! We used a combination of recycled paper to create a unique texture and color. Each sheet is one-of-a-kind, and perfect for writing letters or creating art.",
+      "price": 15,
+      "priceDisplay": "$15",
+      "images": [
+        "images/paper/paper-3/main.jpeg"
+      ],
+      "thumbnail": "images/paper/paper-3/main.jpeg",
+      "category": "paper",
+      "timetoship": "3 days"
+    },
+    {
+      "id": "paper4",
+      "title": "Handmade Paper",
+      "description": "My husband and I made this paper together! We used a combination of recycled paper to create a unique texture and color. Each sheet is one-of-a-kind, and perfect for writing letters or creating art.",
+      "price": 15,
+      "priceDisplay": "$15",
+      "images": [
+        "images/paper/paper-4/main.jpeg"
+      ],
+      "thumbnail": "images/paper/paper-4/main.jpeg",
+      "category": "paper",
+      "timetoship": "3 days"
+    },
+    {
+      "id": "paper5",
+      "title": "Handmade Paper",
+      "description": "My husband and I made this paper together! We used a combination of recycled paper to create a unique texture and color. Each sheet is one-of-a-kind, and perfect for writing letters or creating art.",
+      "price": 15,
+      "priceDisplay": "$15",
+      "images": [
+        "images/paper/paper-5/main.jpeg"
+      ],
+      "thumbnail": "images/paper/paper-5/main.jpeg",
+      "category": "paper",
+      "timetoship": "3 days"
     }
   ]
 }
