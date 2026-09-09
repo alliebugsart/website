@@ -155,7 +155,6 @@ function renderGallery(artworks) {
       row.appendChild(col2);
     }
     if (i + 2 < listofstuff.length) {
-      console.log("i + 2 is less than listofstuff.length");
       const col3 = document.createElement("div");
       col3.className = "col";
       col3.appendChild(listofstuff[i + 2]);
