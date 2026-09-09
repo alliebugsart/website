@@ -303,7 +303,6 @@ a:hover {
 .art-card-tag {
   display: inline-block;
   border-radius: 999px;
-  background: var(--color-accent-soft);
   color: var(--color-accent);
   padding: 0.2rem 0.6rem;
   font-size: 0.72rem;
