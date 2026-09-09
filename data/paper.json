@@ -26,7 +26,7 @@
       ],
       "thumbnail": "images/paper/paper-1/main.jpeg",
       "category": "paper",
-      "timetoship": "3 days"
+      "timetoship": "2 days"
     },
     {
       "id": "paper2",
@@ -39,7 +39,7 @@
       ],
       "thumbnail": "images/paper/paper-2/main.jpeg",
       "category": "paper",
-      "timetoship": "3 days"
+      "timetoship": "2 days"
     },
     {
       "id": "paper3",
@@ -52,7 +52,7 @@
       ],
       "thumbnail": "images/paper/paper-3/main.jpeg",
       "category": "paper",
-      "timetoship": "3 days"
+      "timetoship": "2 days"
     },
     {
       "id": "paper4",
@@ -65,7 +65,7 @@
       ],
       "thumbnail": "images/paper/paper-4/main.jpeg",
       "category": "paper",
-      "timetoship": "3 days"
+      "timetoship": "2 days"
     },
     {
       "id": "paper5",
@@ -78,7 +78,7 @@
       ],
       "thumbnail": "images/paper/paper-5/main.jpeg",
       "category": "paper",
-      "timetoship": "3 days"
+      "timetoship": "2 days"
     }
   ]
 }
