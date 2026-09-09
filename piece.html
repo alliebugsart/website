@@ -1,31 +1,45 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Artwork — Allie Bug Studio</title>
   <meta name="description" content="View artwork details and photos.">
+  <link rel="icon" type="image/png" href="./images/primary.png">
+
   <link rel="stylesheet" href="css/style.css">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,600;1,400&family=DM+Sans:wght@400;500;600&display=swap" rel="stylesheet">
+  <link
+    href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,600;1,400&family=DM+Sans:wght@400;500;600&display=swap"
+    rel="stylesheet">
 </head>
+
 <body>
   <header class="site-header">
-    <div class="container header-inner">
-      <a href="index.html" class="logo">
-        <span class="logo-title" id="site-title">Allie Bug Artwork</span>
-        <span class="logo-tagline" id="site-tagline">Handmade art & original pieces</span>
-      </a>
-      <div class="header-actions">
-        <nav class="header-contact" id="header-contact"></nav>
-        <a href="cart.html" class="cart-link" id="cart-link" aria-label="View cart">
-          <span>Cart</span>
-          <span class="cart-count" id="cart-count" hidden>0</span>
-        </a>
+    <div class="container">
+      <div class="row">
+        <div class="col-md-8 col-sm-11">
+          <a href="index.html" class="logo">
+            <img class="logo-image" src="./images/logo.png" alt="Allie Bug's Art logo" />
+            <span class="logo-tagline" id="site-tagline">Handmade art & Ariginal Pieces</span>
+          </a>
+        </div>
+        <div class="col">
+
+          <div class="header-actions">
+            <nav class="header-contact" id="header-contact"></nav>
+            <a href="cart.html" class="cart-link" id="cart-link" aria-label="View cart">
+              <span>Cart</span>
+              <span class="cart-count" id="cart-count" hidden>0</span>
+            </a>
+          </div>
+        </div>
       </div>
     </div>
   </header>
+
 
   <main>
     <div class="container piece-page">
@@ -43,4 +57,5 @@
   <script src="js/site.js"></script>
   <script src="js/piece.js"></script>
 </body>
+
 </html>
